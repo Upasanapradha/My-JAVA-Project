@@ -1,0 +1,5 @@
+INSERT INTO product ( name, description, brand, price, category, release_Date, available, quantity) VALUES ('Smartphone', 'Latest model with AI features', 'Samsung', 49999.99, 'Electronics', '2025-07-10', true, 50);
+INSERT INTO product ( name, description, brand, price, category, release_Date, available, quantity) VALUES ('Laptop', 'Ultra-slim laptop with 16GB RAM', 'Dell', 74999.50, 'Electronics', '2025-06-15', true, 30);
+INSERT INTO product (name, description, brand, price, category, release_Date, available, quantity) VALUES ('Headphones', 'Noise-cancelling over-ear headphones', 'Sony', 9999.00, 'Accessories', '2024-11-01', true, 100);
+INSERT INTO product (name, description, brand, price, category, release_Date, available, quantity) VALUES ( 'Washing Machine', '6kg front-load with smart control', 'LG', 28999.75, 'Home Appliances', '2023-08-25', true, 20);
+INSERT INTO product (name, description, brand, price, category, release_Date, available, quantity) VALUES ('Electric Kettle', '1.5L stainless steel kettle', 'Philips', 2499.99, 'Kitchen Appliances', '2022-12-10', false, 0);
